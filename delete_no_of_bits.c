@@ -24,3 +24,4 @@ continue;
 printf("%d",i>>p&1);
 }
 printf("\n");
+}
